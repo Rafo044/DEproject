@@ -1,7 +1,7 @@
 # DEproject(Data Engineering projects)
 A collection of beginner-friendly but production-oriented data engineering projects, focusing on ETL pipelines, workflow orchestration with Airflow, API ingestion, SQL analytics, and file format performance comparison.
 
-# Data Engineering Projects (Python • SQL • Airflow • PostgreSQL)
+# Data Engineering Projects (Python • SQL • Airflow • PostgreSQL • Docker)
 
 This repository contains a curated set of beginner-to-intermediate data engineering projects, designed to demonstrate practical skills and best practices using Python, SQL, PostgreSQL, Airflow, and more.
 
