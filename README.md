@@ -34,12 +34,3 @@ Compares file storage formats (Parquet vs CSV) in terms of read/write speed and 
 
 > Technologies: `Python`, `pandas`, `Parquet`, `time`
 
----
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/data-engineering-projects.git
-cd data-engineering-projects
