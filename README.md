@@ -95,7 +95,7 @@ DEproject/
 
 ## License
 
-MIT License – use freely with attribution.
+[MIT License](https://github.com/Rafo044/DEproject/tree/main?tab=MIT-1-ov-file) – use freely with attribution.
 
 ---
 
