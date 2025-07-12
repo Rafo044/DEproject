@@ -66,6 +66,7 @@ DEproject/
 ├── etl_project/
 │   ├── docker-compose.yaml
 │   ├── etl_script.py
+|   ├── retail_store_sales
 ├── airflow_project/
 │   ├── dags/
 │   ├── docker-compose.yaml
